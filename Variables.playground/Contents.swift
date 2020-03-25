@@ -4,9 +4,9 @@ print(favoriteCharacter)
 favoriteCharacter = "Tyrion Lannister"
 print(favoriteCharacter)
 
-favoriteCharacter = 76
+favoriteCharacter = "76"
 
-let ultimateFavoriteCharacter = "Arya Stark"
-print(ultimateFavoriteCharacter)
+var ultimateFavoriteCharacter = "Arya Stark"
 
 ultimateFavoriteCharacter = "Daenerys Targaryen"
+print(ultimateFavoriteCharacter)
